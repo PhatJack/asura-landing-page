@@ -4,6 +4,7 @@ import viteLogo from '/vite.svg'
 import './App.css'
 import Header from './components/Header/Header'
 import SectionOne from './components/Sections/SectionOne'
+import SectionTwo from './components/Sections/SectionTwo'
 
 function App() {
 	const [count, setCount] = useState(0)
@@ -13,6 +14,7 @@ function App() {
 		<div className="w-full h-[300vh] relative">
 			<Header />
 			<SectionOne />
+			<SectionTwo />
 		</div>
 		</>
 	)

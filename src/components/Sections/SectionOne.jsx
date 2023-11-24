@@ -3,11 +3,12 @@ import { SampleImg } from '../../assets'
 
 const SectionOne = () => {
 	return (
-		<div className='bg-img w-full h-screen relative'>
+		<div className='w-full h-screen relative'>
 			<img src={SampleImg} alt="" className='w-full h-full object-center' />
-			<div className="absolute top-1/2 left-1/2 transform -translate-x-1/2">
-				<p className='text-8xl font-'>Seamless <span>furniture</span>
+			<div className="absolute w-full h-full top-0 left-0 bg-black/20 flex flex-col justify-center gap-16 items-center">
+				<p className='text-8xl text-center text-white font-reckless-neue px-[28rem]'> Seamless <span className='font-reckless-neue-italic'>furniture </span>
 					with natural fabrics</p>
+				<button className='px-10 py-3 bg-linen w-fit rounded-lg text-sm'>SHOP ALL</button>
 			</div>
 		</div>
 	)
