@@ -15,5 +15,5 @@ import ProductSix from './product6.png'
 import ProductSeven from './product7.png' 
 import ProductEight from './product8.png'
 import ReadStories from './readerStories.png'
-import SampleImg from './sampleImg.png'
+import SampleImg from './sampleImg2.png'
 export { HeaderLogo, FooterLogo, ArticleOne, ArticleTwo, ArticleThree, DetailMain, DetailSmallOne, DetailSmallTwo, ProductOne, ProductTwo, ProductThree, ProductFour, ProductFive, ProductSix, ProductSeven, ProductEight, ReadStories, SampleImg }
