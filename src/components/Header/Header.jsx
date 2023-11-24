@@ -3,7 +3,7 @@ import { HeaderLogo } from '../../assets'
 
 const Header = () => {
 	return (
-		<div className='fixed top-0 z-[1] w-full'>
+		<div className='fixed top-0 z-[1] w-full bg-black/50'>
 			<div className="px-20 py-5">
 				<div className="w-full flex justify-between items-center text-white">
 					<button className='flex items-center gap-2'>
