@@ -22,3 +22,16 @@ export const products = [
 		price: "5,990"
 	},
 ]
+
+export const floatProduct = [
+	{
+		img: ShopProduct,
+		name: "native iron chair",
+		price: "4,990"
+	},
+	{
+		img: ShopProductTwo,
+		name: "century dashe",
+		price: "1,790"
+	},
+]

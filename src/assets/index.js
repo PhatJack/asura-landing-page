@@ -15,6 +15,7 @@ import ProductSix from './product6.png'
 import ProductSeven from './product7.png'
 import ProductEight from './product8.png'
 import ReadStories from './readerStories.png'
+import ReadStories2 from './readStories2.png'
 import SampleImg from './sampleImg2.png'
 import FloatImg from './FloatImg.png'
 import FloatImgTwo from './FloatImg2.png'
@@ -31,5 +32,6 @@ export {
 	HeaderLogo, FooterLogo, ArticleOne, ArticleTwo, ArticleThree, DetailMain, DetailSmallOne,
 	DetailSmallTwo, ProductOne, ProductTwo, ProductThree, ProductFour, ProductFive, ProductSix,
 	ProductSeven, ProductEight, ReadStories, SampleImg, FloatImg, FloatImgFive, FloatImgFour,
-	FloatImgSix, FloatImgThree, FloatImgTwo, ShopProduct, ShopProductFour, ShopProductThree, ShopProductTwo
+	FloatImgSix, FloatImgThree, FloatImgTwo, ShopProduct, ShopProductFour, ShopProductThree, ShopProductTwo,
+	ReadStories2
 }

@@ -13,8 +13,7 @@ const SectionThree = () => {
 					))
 				}
 			</div>
-			<HeroText text={"shop all"} className={"font-reckless-neue tracking-wide uppercase"} />
-
+			<HeroText text={"shop all"} className={"font-reckless-neue tracking-wide uppercase hover:bg-opal transition-all hover:text-white"} />
 		</div>
 	)
 }

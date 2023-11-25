@@ -7,17 +7,21 @@ import SectionOne from './components/Sections/SectionOne'
 import SectionTwo from './components/Sections/SectionTwo'
 import SectionThree from './components/Sections/SectionThree'
 import Footer from './components/Footer/Footer'
+import SectionFour from './components/Sections/SectionFour'
+import SectionFive from './components/Sections/SectionFive'
 
 function App() {
 	const [count, setCount] = useState(0)
 
 	return (
 		<>
-		<div className="w-full h-[300vh] relative">
+		<div className="w-full h-full relative">
 			<Header />
 			<SectionOne />
 			<SectionTwo />
 			<SectionThree />
+			<SectionFour />
+			<SectionFive />
 			<Footer />
 		</div>
 		</>
