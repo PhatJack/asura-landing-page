@@ -5,6 +5,8 @@ import './App.css'
 import Header from './components/Header/Header'
 import SectionOne from './components/Sections/SectionOne'
 import SectionTwo from './components/Sections/SectionTwo'
+import SectionThree from './components/Sections/SectionThree'
+import Footer from './components/Footer/Footer'
 
 function App() {
 	const [count, setCount] = useState(0)
@@ -15,6 +17,8 @@ function App() {
 			<Header />
 			<SectionOne />
 			<SectionTwo />
+			<SectionThree />
+			<Footer />
 		</div>
 		</>
 	)

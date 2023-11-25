@@ -3,8 +3,8 @@ import { FloatImg, FloatImgFive, FloatImgFour, FloatImgSix, FloatImgThree, Float
 
 const SectionTwo = () => {
 	return (
-		<div className='w-full h-screen relative'>
-			<div className="w-[32vw] h-full flex flex-col justify-center items-center gap-10 m-auto mt-5">
+		<div className='w-full h-screen relative mt-5 mb-10'>
+			<div className="w-[32vw] h-full flex flex-col justify-center items-center gap-10 m-auto">
 				<p className='text-7xl font-reckless-neue text-center'>Creating <span className='font-reckless-neue-italic'>perfect</span> lines and imposing presence</p>
 				<p className='text-center px-4'>Developed the concept of exclusivity, a Arusa features timeless furniture, with natural fabrics, curved lines, plenty of mirrors and classic design, which can be incorporated into any decor project. The pieces enchant for their sobriety, to last for generations, faithful to the shapes of each period, with a touch of the present.</p>
 				<button className='px-12 py-1 border border-oyster rounded-lg hover:bg-opal transition-all hover:text-white'>READ ABOUT US</button>
