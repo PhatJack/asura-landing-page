@@ -22,5 +22,14 @@ import FloatImgThree from './FloatImg3.png'
 import FloatImgFour from './FloatImg4.png'
 import FloatImgFive from './FloatImg5.png'
 import FloatImgSix from './FloatImg6.png'
+import ShopProduct from './shopProduct.png'
+import ShopProductTwo from './shopProduct2.png'
+import ShopProductThree from './shopProduct3.png'
+import ShopProductFour from './shopProduct4.png'
 
-export { HeaderLogo, FooterLogo, ArticleOne, ArticleTwo, ArticleThree, DetailMain, DetailSmallOne, DetailSmallTwo, ProductOne, ProductTwo, ProductThree, ProductFour, ProductFive, ProductSix, ProductSeven, ProductEight, ReadStories, SampleImg, FloatImg, FloatImgFive, FloatImgFour, FloatImgSix, FloatImgThree, FloatImgTwo, }
+export {
+	HeaderLogo, FooterLogo, ArticleOne, ArticleTwo, ArticleThree, DetailMain, DetailSmallOne,
+	DetailSmallTwo, ProductOne, ProductTwo, ProductThree, ProductFour, ProductFive, ProductSix,
+	ProductSeven, ProductEight, ReadStories, SampleImg, FloatImg, FloatImgFive, FloatImgFour,
+	FloatImgSix, FloatImgThree, FloatImgTwo, ShopProduct, ShopProductFour, ShopProductThree, ShopProductTwo
+}
